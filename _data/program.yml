@@ -1,0 +1,19 @@
+days:
+- name: "17th June"
+  abbr: Mon
+  date: 2024-06-17
+  rooms:
+  - name: "Room 1"
+    talks:
+- name: "18th June"
+  abbr: Tue
+  date: 2024-06-18
+  rooms:
+  - name: "Room 1"
+    talks:
+- name: "19th June"
+  abbr: Wed
+  date: 2024-06-19
+  rooms:
+  - name: "Room 1"
+    talks:

@@ -1,0 +1,47 @@
+version: 8
+
+en:
+  pronoun:
+    and: and
+    at: at
+    by: by
+    for: for
+    in: in
+    on_: "on"
+  overview: Overview
+  more_information: More Information
+  live:
+    live: Live
+    stream: Live Stream
+    streams: Live Streams
+    pre_stream: Live stream has not started yet.
+    pause_stream: Live stream is currently paused.
+    post_stream: Live stream has ended.
+    time:
+      in: in
+      since: since
+      weeks: weeks
+      week: week
+      days: days
+      day: day
+      hours: hours
+      hour: hour
+      minutes: minutes
+      minute: minute
+      soon: soon
+      now: now
+  location:
+    rooms: Venue information
+    talks: Talks in this room
+    focus_conf: Center map on workshop location
+    focus_me: Show my current location
+  program:
+    title: Program
+    legend: Caption
+  speaker:
+    overview: Instructors
+    title: Instructor
+    talks: Talks at this course
+  talk:
+    overview: Talks
+    title: Talk
