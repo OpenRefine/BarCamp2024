@@ -166,3 +166,4 @@ conference:
 
 plugins:
   - jekyll-include-cache
+  - jekyll-redirect-from

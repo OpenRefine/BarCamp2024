@@ -1,5 +1,6 @@
 ---
 layout: location
+redirect_to: https://barcamps.eu/openrefine-2024-barcamp/venue
 ---
 
 The BarCamp will be hosted at…

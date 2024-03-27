@@ -1,5 +1,6 @@
 ---
 layout: program
+redirect_to: https://barcamps.eu/openrefine-2024-barcamp/
 ---
 
 The BarCamp will run **from June 17th to June 19th 2024**.

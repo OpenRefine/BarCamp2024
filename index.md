@@ -1,5 +1,6 @@
 ---
 layout: home
+redirect_to: https://barcamps.eu/openrefine-2024-barcamp/
 ---
 
 Come to discuss the past, present and future of the [OpenRefine](https://openrefine.org) project, on **from Monday 17th to Wednesday 19th June 2024**, in **Berlin and online**.
